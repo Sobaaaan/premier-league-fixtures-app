@@ -2,7 +2,7 @@
 
 This is a simple React application that fetches and displays the upcoming Premier League fixtures using the Premier League API.
 
-![App Screenshot](Capture.PNG)
+![App Screenshot](Screenshot.PNG)
 
 ## Features
 
