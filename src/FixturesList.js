@@ -53,7 +53,7 @@ const FixturesList = () => {
         const options = {
             method: "GET",
             headers: {
-                "X-RapidAPI-Key": "ee16b11841msha961271197ecb67p118d9cjsn6b7ad224a61a",
+                "X-RapidAPI-Key": "",
                 "X-RapidAPI-Host": "api-football-v1.p.rapidapi.com",
             },
         };
