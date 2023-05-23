@@ -7,7 +7,7 @@ This is a simple React application that fetches and displays the upcoming Premie
 ## Features
 
 - Fetches Premier League fixtures from the official API.
-- Displays the home team and away team for each fixture.
+- Displays the home team and away team for each fixture on the selected matchday.
 - Modern and responsive design.
 
 ## Contributing
